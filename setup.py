@@ -5,5 +5,5 @@ setup(
     packages=['travistest'],
     version='0.0.7',
     description='Test project to get acquainted with TravisCI',
-    url='https://github.com/lqdev/TravisTest',    
+    url='https://github.com/siddht4/travic_test',    
 )
